@@ -1,0 +1,66 @@
+.topbar
+{
+
+  background-color: #f4f4f4;
+    border: 1px solid #f4f4f4;
+    
+}
+.first
+{
+    margin-left: 20px;
+}
+.main-container
+{
+    background-color: #f4f4f4;
+}
+.card i
+{
+    font-size: 40px;
+}
+.cards
+{
+    margin-left: -25px;
+    width: 167px;
+}
+img
+{
+    width: 100%;
+}
+
+
+.box4-first-box
+{
+    margin-left: 10px;
+    background-color: #037eba;
+    height: 40vh;
+    color: white;
+    width: 31%;
+}
+.box4-second-box
+{
+    background-color: #a0af46;
+    height: 40vh;
+    color: white;
+    margin-left: 20px;
+    width: 32%;
+}
+.box4-third-box
+{
+    background-color: #a0af46;
+    height: 40vh;
+    color: white;
+    margin-left: 20px;
+    width: 32%;
+}
+.box4-first-box i
+{
+    font-size: 80px;
+}
+.box4-second-box i
+{
+    font-size: 80px;
+}
+.box4-third-box i
+{
+    font-size: 80px;
+}
